@@ -14,7 +14,7 @@ public class NerdLauncherActivity extends SingleFragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.nerd_launcher_fragment);
+        setContentView(R.layout.activity_twopane);
     }
 
 
